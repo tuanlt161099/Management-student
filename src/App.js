@@ -4,7 +4,6 @@ import FormInfor from './components/FormInfor'
 function App() {
   return (
     <>
-
     <FormInfor/>
   </>
   )
